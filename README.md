@@ -25,4 +25,4 @@ You can explore popular routes, daily flight trends, and average price trends.
 ## Notes
 - This app uses sample (dummy) data if data is not availabe from API or from selected range.
 - Use the sidebar to select your desired date range.
-- in date from-2024/08/01( 1August 2024) to 2024/08/02(( 1August 2024)) . 
+- Give date from-2024/08/01( 1August 2024) to 2024/08/02(( 1August 2024)) . 
